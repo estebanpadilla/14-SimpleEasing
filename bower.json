@@ -1,0 +1,20 @@
+{
+  "name": "14-SimpleEasing",
+  "description": "Staring with a simple easing.",
+  "main": "index.js",
+  "authors": [
+    "Esteban Padilla <ep@estebanpadilla.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/estebanpadilla/14-SimpleEasing",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ludusy": "^1.0.9"
+  }
+}
